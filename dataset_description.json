@@ -13,6 +13,6 @@
         "",
         "Interceptor"
     ],
-    "DatasetDOI": "10.18112/openneuro.ds002743.v1.0.0",
+    "DatasetDOI": "10.18112/openneuro.ds002743.v1.0.1",
     "BIDSVersion": "1.0.2"
 }
